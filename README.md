@@ -1,0 +1,2 @@
+# SnapGame-Mod-Template
+
